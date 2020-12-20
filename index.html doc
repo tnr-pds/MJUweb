@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+    <style></style>
+    <script></script>
+
+</head>
+
+<body>
+    โครงสร้าง <div> header </div>, <div> menu </div>, <div> slide </div>, 
+    <div> footer </div> <div> class = ชื่อตัวแปร(พวก .****) </div>
+
+    รูป <img src="" alt="">  <--- (ที่อยู่,คำอธิบายรูปภาพ)
+    ข้อความ <h6></h6>, <p></p>, <span></span>, <code></code>
+    ตราง <table></table>
+    link <a href="">****</a>
+    กราฟ <canvas></canvas>
+    ปุ่ม <button></button> 
+    
+</body>
+</html>
